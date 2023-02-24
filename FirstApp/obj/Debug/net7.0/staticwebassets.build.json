@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SBjHJVEhOWLEBex6fOEgqLSt2XqERpjvjdH74bEaM6M=",
+  "Hash": "hcIHfMwo83DKZY+Wiw9+izyvwaAkX2sW9KGlxW2E1Fo=",
   "Source": "FirstApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -491,6 +491,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/gitpod/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/lib/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll"
+    },
+    {
+      "Identity": "/workspace/Skeleton/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll",
+      "SourceId": "FirstApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/workspace/Skeleton/FirstApp/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/gitpod/.nuget/packages/microsoft.extensions.http/7.0.0/lib/net7.0/Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "/workspace/Skeleton/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
@@ -6696,6 +6713,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/workspace/Skeleton/FirstApp/bin/Debug/net7.0/wwwroot/_framework/System.Linq.dll"
+    },
+    {
+      "Identity": "/workspace/Skeleton/FirstApp/obj/Debug/net7.0/build-gz/xV7dP+w3.gz",
+      "SourceId": "FirstApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/workspace/Skeleton/FirstApp/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/workspace/Skeleton/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/workspace/Skeleton/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "/workspace/Skeleton/FirstApp/obj/Debug/net7.0/build-gz/y6QHqQQ3.gz",
